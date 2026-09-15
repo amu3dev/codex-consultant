@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "codex": {
+      "command": "/absolute/path/to/node",
+      "args": [
+        "/absolute/path/to/codex-consultant/dist/index.js"
+      ],
+      "cwd": "/absolute/path/to/codex-consultant",
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  }
+}
